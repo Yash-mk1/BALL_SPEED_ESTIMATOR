@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 
-VIDEO_PATH = "vids/ball_sample_video.mp4"
+VIDEO_PATH = "ball_sample_video.mp4"
 REAL_DISTANCE = 20.12  # Cricket pitch length in meters
 
 
